@@ -4,7 +4,7 @@
  * @param {*} icount in count 
  */
 function Taylor(icount){
-    return 9*icount;
+    return 10*icount;
 }
 
 module.exports.Taylor = Taylor;
