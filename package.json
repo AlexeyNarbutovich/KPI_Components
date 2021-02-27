@@ -1,0 +1,19 @@
+{
+  "name": "kpi_components",
+  "version": "1.0.0",
+  "description": "Components of Software engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyNarbutovich/KPI_Components.git"
+  },
+  "author": "Oleksii Narbutovych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyNarbutovich/KPI_Components/issues"
+  },
+  "homepage": "https://github.com/AlexeyNarbutovich/KPI_Components#readme"
+}
